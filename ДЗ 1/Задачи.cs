@@ -96,7 +96,7 @@ else
 8 -> 2, 4, 6, 8
 */
 
-/*
+
 Console.WriteLine("Введите целое число");
 int N = Convert.ToInt32 (Console.ReadLine());
 
@@ -107,4 +107,3 @@ while (EvenNamber <= N)
     Console.Write($" {EvenNamber}");
     EvenNamber = EvenNamber + 2;
 }
-*/
